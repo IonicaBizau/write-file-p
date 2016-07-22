@@ -38,5 +38,10 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/write-file-p/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/write-file-p#readme"
+  "homepage": "https://github.com/IonicaBizau/write-file-p#readme",
+  "dependencies": {
+    "abs": "^1.3.4",
+    "mkdirp": "^0.5.1",
+    "typpy": "^2.3.3"
+  }
 }
