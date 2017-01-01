@@ -79,6 +79,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`reactgen`](https://github.com/CynderTech/reactgen#readme) (by June Domingo)—React Component Generator
+ - [`reactgen-native`](https://github.com/JuneDomingo/reactgen-native#readme) (by June Domingo)—React-native Component Generator
  - [`tester-init`](https://github.com/IonicaBizau/tester-init#readme)—Init tests for tester.
  - [`tilda-init`](https://github.com/IonicaBizau/tilda-init#readme)—Init cli applications.
 
